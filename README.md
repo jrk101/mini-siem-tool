@@ -21,3 +21,7 @@ A simple security monitoring tool built using Python. It simulates basic SIEM fu
 
 ```bash
 python mini_siem.py
+## Author
+
+[Joseph Rithin](https://www.linkedin.com/in/joseph-rithin-4a5388321/)
+
