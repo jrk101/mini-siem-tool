@@ -17,11 +17,13 @@ A simple security monitoring tool built using Python. It simulates basic SIEM fu
 - Tamper detection for critical files
 - Beginner-friendly and lightweight
 
+## Author
+
+[Joseph Rithin](https://www.linkedin.com/in/joseph-rithin-4a5388321/)
+
+
 ##  Run it
 
 ```bash
 python mini_siem.py
-## Author
-
-[Joseph Rithin](https://www.linkedin.com/in/joseph-rithin-4a5388321/)
 
