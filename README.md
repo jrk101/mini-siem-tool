@@ -19,7 +19,7 @@ A simple security monitoring tool built using Python. It simulates basic SIEM fu
 
 ## Author
 
-[Joseph Rithin](www.linkedin.com/in/joseph-rithin/)
+[Joseph Rithin](https://www.linkedin.com/in/joseph-rithin/)
 
 
 ##  Run it
